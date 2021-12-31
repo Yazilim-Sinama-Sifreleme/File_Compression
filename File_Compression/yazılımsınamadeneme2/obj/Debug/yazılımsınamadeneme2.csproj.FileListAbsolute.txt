@@ -1,0 +1,13 @@
+C:\Users\melsa\OneDrive\Masaüstü\yzlımsınama2\yazılımsınamadeneme2\yazılımsınamadeneme2\bin\Debug\yazılımsınamadeneme2.exe.config
+C:\Users\melsa\OneDrive\Masaüstü\yzlımsınama2\yazılımsınamadeneme2\yazılımsınamadeneme2\bin\Debug\yazılımsınamadeneme2.exe
+C:\Users\melsa\OneDrive\Masaüstü\yzlımsınama2\yazılımsınamadeneme2\yazılımsınamadeneme2\bin\Debug\yazılımsınamadeneme2.pdb
+C:\Users\melsa\OneDrive\Masaüstü\yzlımsınama2\yazılımsınamadeneme2\yazılımsınamadeneme2\obj\Debug\yazılımsınamadeneme2.csproj.AssemblyReference.cache
+C:\Users\melsa\OneDrive\Masaüstü\yzlımsınama2\yazılımsınamadeneme2\yazılımsınamadeneme2\obj\Debug\yazılımsınamadeneme2.Form1.resources
+C:\Users\melsa\OneDrive\Masaüstü\yzlımsınama2\yazılımsınamadeneme2\yazılımsınamadeneme2\obj\Debug\yazılımsınamadeneme2.Properties.Resources.resources
+C:\Users\melsa\OneDrive\Masaüstü\yzlımsınama2\yazılımsınamadeneme2\yazılımsınamadeneme2\obj\Debug\yazılımsınamadeneme2.csproj.GenerateResource.cache
+C:\Users\melsa\OneDrive\Masaüstü\yzlımsınama2\yazılımsınamadeneme2\yazılımsınamadeneme2\obj\Debug\yazılımsınamadeneme2.csproj.CoreCompileInputs.cache
+C:\Users\melsa\OneDrive\Masaüstü\yzlımsınama2\yazılımsınamadeneme2\yazılımsınamadeneme2\obj\Debug\yazılımsınamadeneme2.exe
+C:\Users\melsa\OneDrive\Masaüstü\yzlımsınama2\yazılımsınamadeneme2\yazılımsınamadeneme2\obj\Debug\yazılımsınamadeneme2.pdb
+C:\Users\melsa\OneDrive\Masaüstü\yzlımsınama2\yazılımsınamadeneme2\yazılımsınamadeneme2\bin\Debug\System.IO.Compression.dll
+C:\Users\melsa\OneDrive\Masaüstü\yzlımsınama2\yazılımsınamadeneme2\yazılımsınamadeneme2\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\melsa\OneDrive\Masaüstü\yzlımsınama2\yazılımsınamadeneme2\yazılımsınamadeneme2\obj\Debug\yazılımsınamadeneme2.csproj.CopyComplete
